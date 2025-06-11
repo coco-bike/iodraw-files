@@ -14,10 +14,10 @@
           <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Urq60OCcJ2GtxapnwRol-3" value="下位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="290" width="86" height="45" as="geometry" />
+          <mxGeometry x="400" y="280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Urq60OCcJ2GtxapnwRol-4" value="设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="290" width="90" height="50" as="geometry" />
+          <mxGeometry x="540" y="280" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
